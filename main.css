@@ -1,0 +1,14 @@
+img {
+    width: 400px;
+}
+body {
+    text-align: center;
+    font-family: 'Chicle';
+    background: rgb(231, 255, 250);
+    color: rgba(7, 1, 44, 0.771);
+    a{
+        color:rgb(30, 155, 57)
+    }
+    p{overflow-wrap: break-word;}
+}
+
